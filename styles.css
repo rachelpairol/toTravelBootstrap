@@ -1,0 +1,16 @@
+img {
+    width: 300px;
+}
+
+.container {
+    max-width: 900px;
+}
+
+#imagen-principal {
+    width: 400px;
+}
+
+.creditos a {
+    text-decoration: none;
+    color: black;
+}
